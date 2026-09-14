@@ -1,8 +1,9 @@
 media:
   input: assets
-  output: /assets
+  output: assets
 
 content:
+
   - name: website
     label: Rojja Website
     type: file
@@ -14,6 +15,7 @@ content:
       - name: hero
         label: Homepage
         type: object
+
         fields:
 
           - name: name
@@ -28,6 +30,18 @@ content:
             label: Introduction
             type: text
 
+          - name: note
+            label: Secondary Introduction
+            type: text
+
+          - name: location
+            label: Location
+            type: string
+
+          - name: card_text
+            label: Main Photo Caption
+            type: string
+
           - name: photo
             label: Main Photo
             type: image
@@ -36,6 +50,97 @@ content:
       - name: about
         label: About
         type: object
+
+        fields:
+
+          - name: heading
+            label: Heading
+            type: string
+
+          - name: text_1
+            label: First Paragraph
+            type: text
+
+          - name: text_2
+            label: Second Paragraph
+            type: text
+
+          - name: skills
+            label: Skills
+            type: string
+            list: true
+
+
+      - name: experience
+        label: Experience
+        type: object
+
+        fields:
+
+          - name: heading
+            label: Section Heading
+            type: string
+
+
+          - name: featured
+            label: Featured Experience
+            type: object
+
+            fields:
+
+              - name: date
+                label: Dates
+                type: string
+
+              - name: title
+                label: Job Title
+                type: string
+
+              - name: organization
+                label: Organization
+                type: string
+
+              - name: description
+                label: Description
+                type: text
+
+              - name: photo
+                label: Photo
+                type: image
+
+
+          - name: jobs
+            label: Other Experience
+            type: object
+
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{title}"
+
+            fields:
+
+              - name: date
+                label: Dates
+                type: string
+
+              - name: title
+                label: Job Title
+                type: string
+
+              - name: organization
+                label: Organization
+                type: string
+
+              - name: description
+                label: Description
+                type: text
+
+
+      - name: leadership
+        label: Leadership
+        type: object
+
         fields:
 
           - name: heading
@@ -43,14 +148,136 @@ content:
             type: string
 
           - name: text
-            label: About Text
+            label: Description
             type: text
+
+          - name: photo
+            label: Photo
+            type: image
+
+          - name: linkedin
+            label: LinkedIn Post URL
+            type: string
+
+
+      - name: recognition
+        label: Community & Recognition
+        type: object
+
+        fields:
+
+          - name: heading
+            label: Section Heading
+            type: string
+
+          - name: year
+            label: Year
+            type: string
+
+          - name: title
+            label: Recognition
+            type: string
+
+          - name: organization
+            label: Subtitle
+            type: string
+
+          - name: description_1
+            label: First Paragraph
+            type: text
+
+          - name: description_2
+            label: Second Paragraph
+            type: text
+
+          - name: photo
+            label: Photo
+            type: image
+
+          - name: linkedin
+            label: LinkedIn Post
+            type: string
+
+          - name: tags
+            label: Highlights
+            type: string
+            list: true
+
+
+      - name: education
+        label: Education & Global Experience
+        type: object
+
+        fields:
+
+          - name: heading
+            label: Heading
+            type: string
+
+          - name: items
+            label: Education and Experiences
+            type: object
+
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{title}"
+
+            fields:
+
+              - name: years
+                label: Years
+                type: string
+
+              - name: title
+                label: Title
+                type: string
+
+              - name: subtitle
+                label: Degree / Subtitle
+                type: string
+
+              - name: description
+                label: Description
+                type: text
+
+              - name: photo
+                label: Photo
+                type: image
+
+
+      - name: bakes
+        label: Baking / Instagram
+        type: object
+
+        fields:
+
+          - name: name
+            label: Display Name
+            type: string
+
+          - name: description
+            label: Description
+            type: text
+
+          - name: quote
+            label: Quote
+            type: text
+
+          - name: instagram
+            label: Instagram URL
+            type: string
 
 
       - name: contact
-        label: Contact Information
+        label: Contact
         type: object
+
         fields:
+
+          - name: intro
+            label: Contact Introduction
+            type: text
 
           - name: email
             label: Email
@@ -61,54 +288,12 @@ content:
             type: string
 
           - name: linkedin
-            label: LinkedIn
+            label: LinkedIn Profile
             type: string
 
-
-      - name: education
-        label: Education
-        type: object
-        list:
-          collapsible:
-            collapsed: true
-            summary: "{school}"
-
-        fields:
-
-          - name: school
-            label: School
-            type: string
-
-          - name: degree
-            label: Degree
-            type: string
-
-          - name: years
-            label: Years
-            type: string
-
-          - name: photo
-            label: Photo
-            type: image
-
-
-      - name: recognition
-        label: Community & Recognition
-        type: object
-        fields:
-
-          - name: title
-            label: Recognition
-            type: string
-
-          - name: year
-            label: Year
-            type: string
-
-          - name: description
-            label: Description
-            type: text
-
-          - name: photo
-            label: Photo
-            type: image
+          - name: resume
+            label: Resume PDF
+            type: file
+            options:
+              extensions:
+                - pdf
