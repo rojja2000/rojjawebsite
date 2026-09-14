@@ -3,20 +3,17 @@
     "name": "Rojja Kharel",
     "headline": "PROJECT MANAGEMENT · OPERATIONS · STRATEGY",
     "description": "A New York-area project management professional with experience across public-sector capital projects, global programs, supply chain operations, customer success, and executive support.",
-    "photo": "/assets/rojja-portrait.jpg"
+    "photo": "/assets/rojja.jpg"
   },
-
   "about": {
     "heading": "Cross-functional experience with an executive mindset.",
     "text": "Rojja brings together project coordination, operations, stakeholder management, reporting, and strategy. Her experience spans New York City infrastructure, higher education, global programming, supply chain, sales enablement, and customer success."
   },
-
   "contact": {
     "email": "rk3860@nyu.edu",
     "phone": "(551) 217-9620",
     "linkedin": "https://www.linkedin.com/in/rojjakharel/"
   },
-
   "education": [
     {
       "school": "New York University",
@@ -31,7 +28,6 @@
       "photo": "/assets/ramapo.jpg"
     }
   ],
-
   "recognition": {
     "title": "Miss Community Outreach",
     "year": "2026",
