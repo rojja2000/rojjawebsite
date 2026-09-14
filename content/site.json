@@ -3,35 +3,128 @@
     "name": "Rojja Kharel",
     "headline": "PROJECT MANAGEMENT · OPERATIONS · STRATEGY",
     "description": "A New York-area project management professional with experience across public-sector capital projects, global programs, supply chain operations, customer success, and executive support.",
-    "photo": "/assets/rojja.jpg"
+    "note": "Building a career around thoughtful execution, strong stakeholder relationships, and measurable results.",
+    "location": "New York area",
+    "card_text": "Project delivery · Operations · Growth strategy",
+    "photo": "assets/rojja.jpg"
   },
+
   "about": {
     "heading": "Cross-functional experience with an executive mindset.",
-    "text": "Rojja brings together project coordination, operations, stakeholder management, reporting, and strategy. Her experience spans New York City infrastructure, higher education, global programming, supply chain, sales enablement, and customer success."
+    "text_1": "Rojja brings together project coordination, operations, stakeholder management, reporting, and strategy. Her experience spans New York City infrastructure, higher education, global programming, supply chain, sales enablement, and customer success.",
+    "text_2": "She is completing an M.S. in Project Management at New York University and holds a B.A. in International Studies from Ramapo College of New Jersey, where she graduated summa cum laude.",
+    "skills": [
+      "Stakeholder Management",
+      "Strategic Planning",
+      "Project Coordination",
+      "Reporting",
+      "Supply Chain",
+      "CRM",
+      "Growth Strategy"
+    ]
   },
+
+  "experience": {
+    "heading": "Experience across public service, education, operations, and customer success.",
+
+    "featured": {
+      "date": "June 2026 - August 2026",
+      "title": "Special Projects Capital Program Project Manager Intern",
+      "organization": "NYC Department of Environmental Protection",
+      "description": "Supported capital design and construction work in the NYC watershed, coordinating schedules, compliance requirements, contract-document review, and communication among project managers, engineers, contractors, and consultants.",
+      "photo": "assets/dep-field.jpg"
+    },
+
+    "jobs": [
+      {
+        "date": "September 2025 - Present",
+        "title": "Graduate Program Assistant",
+        "organization": "NYU Steinhardt Office of Global Affairs",
+        "description": "Supports operations and strategic management for study abroad programming across 12+ global locations, including reporting, data validation, communications, and outreach."
+      },
+
+      {
+        "date": "August 2024 - July 2025",
+        "title": "Supply Chain Analyst / Executive Assistant to the CEO",
+        "organization": "AriMax Global Corporation / Matrix Analytics / Arim Inc.",
+        "description": "Coordinated procurement, supplier performance, inventory strategy, executive communications, and sales campaigns while supporting the CEO and cross-functional stakeholders."
+      },
+
+      {
+        "date": "June 2023 - August 2023",
+        "title": "Customer Success Fellow",
+        "organization": "Solstice Community Solar",
+        "description": "Improved CRM workflows, customer communication, team documentation, and special-project research focused on customer success and clean energy."
+      }
+    ]
+  },
+
+  "leadership": {
+    "heading": "Comfortable bringing people together and moving conversations forward.",
+    "text": "Beyond formal roles, Rojja has grown into public-facing leadership through presenting, moderating, professional networking, and helping build professional communities. In 2026, she helped organize and host the first Tech & AI NYC networking event for Nepali Leaders Network and moderated a panel discussion.",
+    "photo": "assets/leadership.jpg",
+    "linkedin": "https://www.linkedin.com/posts/rojjakharel_i-did-it-little-rojja-would-be-so-proud-activity-7471206140274638849--lHb"
+  },
+
+  "recognition": {
+    "heading": "Confidence with a commitment to community.",
+    "year": "2026",
+    "title": "Miss Community Outreach",
+    "organization": "Community Leadership & Personal Growth",
+    "description_1": "Rojja stepped outside her comfort zone to participate in a beauty pageant experience centered on confidence, courage, grace, and personal growth.",
+    "description_2": "Following an intensive week of preparation and training, she received the Miss Community Outreach award, recognizing her commitment to community, representation, and meaningful engagement with others.",
+    "photo": "assets/community-outreach.jpg",
+    "linkedin": "https://www.linkedin.com/posts/rojjakharel_this-year-i-decided-to-get-out-of-my-comfort-activity-7488574552755716097-P0q1",
+    "tags": [
+      "Community Engagement",
+      "Public Presence",
+      "Confidence",
+      "Leadership"
+    ]
+  },
+
+  "education": {
+    "heading": "Business, project management, and international experience.",
+
+    "items": [
+      {
+        "years": "2025 - 2026",
+        "title": "New York University",
+        "subtitle": "M.S. in Project Management",
+        "description": "Coursework includes risk and quality, project operations, global leadership, information systems, and growth strategy.",
+        "photo": "assets/nyu.jpg"
+      },
+
+      {
+        "years": "2020 - 2024",
+        "title": "Ramapo College of New Jersey",
+        "subtitle": "B.A. International Studies",
+        "description": "Minors in International Business and Entrepreneurship. Summa Cum Laude, 3.9/4.0 GPA.",
+        "photo": "assets/ramapo.jpg"
+      },
+
+      {
+        "years": "Spring 2026",
+        "title": "Global Field Experience",
+        "subtitle": "Lamborghini · Bologna, Italy",
+        "description": "Developed a strategic business case for Lamborghini focused on immersive brand experiences for younger audiences.",
+        "photo": "assets/lamborghini.gif"
+      }
+    ]
+  },
+
+  "bakes": {
+    "name": "Rosa Bakes",
+    "description": "A creative outlet centered on baking, presentation, and the joy of making something memorable for other people.",
+    "quote": "Professional ambition and creativity do not have to live in separate worlds. The same attention to detail can show up in a project plan, a presentation, or something made from scratch.",
+    "instagram": ""
+  },
+
   "contact": {
+    "intro": "For project management, operations, strategy, program, and cross-functional opportunities in the New York area.",
     "email": "rk3860@nyu.edu",
     "phone": "(551) 217-9620",
-    "linkedin": "https://www.linkedin.com/in/rojjakharel/"
-  },
-  "education": [
-    {
-      "school": "New York University",
-      "degree": "M.S. in Project Management",
-      "years": "2025 - 2026",
-      "photo": "/assets/nyu.jpg"
-    },
-    {
-      "school": "Ramapo College of New Jersey",
-      "degree": "B.A. International Studies",
-      "years": "2020 - 2024",
-      "photo": "/assets/ramapo.jpg"
-    }
-  ],
-  "recognition": {
-    "title": "Miss Community Outreach",
-    "year": "2026",
-    "description": "Recognition reflecting Rojja's commitment to community engagement, confidence, leadership, and public presence.",
-    "photo": "/assets/community-outreach.jpg"
+    "linkedin": "https://www.linkedin.com/in/rojjakharel/",
+    "resume": "assets/Rojja_Kharel_Resume.pdf"
   }
 }
