@@ -6,8 +6,9 @@
     "note": "Building a career around thoughtful execution, strong stakeholder relationships, and measurable results.",
     "location": "New York area",
     "card_text": "Project delivery · Operations · Growth strategy",
-    "photo": "assets/rojja-1.jpg"
+    "photo": "assets/rojja.jpg"
   },
+
   "about": {
     "heading": "Cross-functional experience with an executive mindset.",
     "text_1": "Rojja brings together project coordination, operations, stakeholder management, reporting, and strategy. Her experience spans New York City infrastructure, higher education, global programming, supply chain, sales enablement, and customer success.",
@@ -22,8 +23,10 @@
       "Growth Strategy"
     ]
   },
+
   "experience": {
     "heading": "Experience across public service, education, operations, and customer success.",
+
     "featured": {
       "date": "June 2026 - August 2026",
       "title": "Special Projects Capital Program Project Manager Intern",
@@ -31,6 +34,7 @@
       "description": "Supported capital design and construction work in the NYC watershed, coordinating schedules, compliance requirements, contract-document review, and communication among project managers, engineers, contractors, and consultants.",
       "photo": "assets/dep-field.jpg"
     },
+
     "jobs": [
       {
         "date": "September 2025 - Present",
@@ -52,12 +56,14 @@
       }
     ]
   },
+
   "leadership": {
     "heading": "Comfortable bringing people together and moving conversations forward.",
     "text": "Beyond formal roles, Rojja has grown into public-facing leadership through presenting, moderating, professional networking, and helping build professional communities. In 2026, she helped organize and host the first Tech & AI NYC networking event for Nepali Leaders Network and moderated a panel discussion.",
     "photo": "assets/leadership.jpg",
     "linkedin": "https://www.linkedin.com/posts/rojjakharel_i-did-it-little-rojja-would-be-so-proud-activity-7471206140274638849--lHb"
   },
+
   "recognition": {
     "heading": "Confidence with a commitment to community.",
     "year": "2026",
@@ -74,8 +80,10 @@
       "Leadership"
     ]
   },
+
   "education": {
     "heading": "Business, project management, and international experience.",
+
     "items": [
       {
         "years": "2025 - 2026",
@@ -100,11 +108,14 @@
       }
     ]
   },
+
   "bakes": {
-    "name": "Rosa Bakes",
-    "description": "A creative outlet centered on baking, presentation, and the joy of making something memorable for other people.",
-    "quote": "Professional ambition and creativity do not have to live in separate worlds. The same attention to detail can show up in a project plan, a presentation, or something made from scratch."
+    "name": "RojBakes",
+    "description": "A creative outlet centered on baking, cooking, presentation, and the joy of making something memorable for other people.",
+    "quote": "Professional ambition and creativity do not have to live in separate worlds. The same attention to detail can show up in a project plan, a presentation, or something made from scratch.",
+    "instagram": "https://www.instagram.com/roj.bakes.cooks"
   },
+
   "contact": {
     "intro": "For project management, operations, strategy, program, and cross-functional opportunities in the New York area.",
     "email": "rk3860@nyu.edu",
