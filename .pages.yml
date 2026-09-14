@@ -1,0 +1,114 @@
+media:
+  input: assets
+  output: /assets
+
+content:
+  - name: website
+    label: Rojja Website
+    type: file
+    path: content/site.json
+    format: json
+
+    fields:
+
+      - name: hero
+        label: Homepage
+        type: object
+        fields:
+
+          - name: name
+            label: Name
+            type: string
+
+          - name: headline
+            label: Headline
+            type: string
+
+          - name: description
+            label: Introduction
+            type: text
+
+          - name: photo
+            label: Main Photo
+            type: image
+
+
+      - name: about
+        label: About
+        type: object
+        fields:
+
+          - name: heading
+            label: Heading
+            type: string
+
+          - name: text
+            label: About Text
+            type: text
+
+
+      - name: contact
+        label: Contact Information
+        type: object
+        fields:
+
+          - name: email
+            label: Email
+            type: string
+
+          - name: phone
+            label: Phone
+            type: string
+
+          - name: linkedin
+            label: LinkedIn
+            type: string
+
+
+      - name: education
+        label: Education
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{school}"
+
+        fields:
+
+          - name: school
+            label: School
+            type: string
+
+          - name: degree
+            label: Degree
+            type: string
+
+          - name: years
+            label: Years
+            type: string
+
+          - name: photo
+            label: Photo
+            type: image
+
+
+      - name: recognition
+        label: Community & Recognition
+        type: object
+        fields:
+
+          - name: title
+            label: Recognition
+            type: string
+
+          - name: year
+            label: Year
+            type: string
+
+          - name: description
+            label: Description
+            type: text
+
+          - name: photo
+            label: Photo
+            type: image
