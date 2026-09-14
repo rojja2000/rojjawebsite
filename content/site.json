@@ -6,9 +6,8 @@
     "note": "Building a career around thoughtful execution, strong stakeholder relationships, and measurable results.",
     "location": "New York area",
     "card_text": "Project delivery · Operations · Growth strategy",
-    "photo": "assets/rojja.jpg"
+    "photo": "assets/rojja-1.jpg"
   },
-
   "about": {
     "heading": "Cross-functional experience with an executive mindset.",
     "text_1": "Rojja brings together project coordination, operations, stakeholder management, reporting, and strategy. Her experience spans New York City infrastructure, higher education, global programming, supply chain, sales enablement, and customer success.",
@@ -23,10 +22,8 @@
       "Growth Strategy"
     ]
   },
-
   "experience": {
     "heading": "Experience across public service, education, operations, and customer success.",
-
     "featured": {
       "date": "June 2026 - August 2026",
       "title": "Special Projects Capital Program Project Manager Intern",
@@ -34,7 +31,6 @@
       "description": "Supported capital design and construction work in the NYC watershed, coordinating schedules, compliance requirements, contract-document review, and communication among project managers, engineers, contractors, and consultants.",
       "photo": "assets/dep-field.jpg"
     },
-
     "jobs": [
       {
         "date": "September 2025 - Present",
@@ -42,14 +38,12 @@
         "organization": "NYU Steinhardt Office of Global Affairs",
         "description": "Supports operations and strategic management for study abroad programming across 12+ global locations, including reporting, data validation, communications, and outreach."
       },
-
       {
         "date": "August 2024 - July 2025",
         "title": "Supply Chain Analyst / Executive Assistant to the CEO",
         "organization": "AriMax Global Corporation / Matrix Analytics / Arim Inc.",
         "description": "Coordinated procurement, supplier performance, inventory strategy, executive communications, and sales campaigns while supporting the CEO and cross-functional stakeholders."
       },
-
       {
         "date": "June 2023 - August 2023",
         "title": "Customer Success Fellow",
@@ -58,14 +52,12 @@
       }
     ]
   },
-
   "leadership": {
     "heading": "Comfortable bringing people together and moving conversations forward.",
     "text": "Beyond formal roles, Rojja has grown into public-facing leadership through presenting, moderating, professional networking, and helping build professional communities. In 2026, she helped organize and host the first Tech & AI NYC networking event for Nepali Leaders Network and moderated a panel discussion.",
     "photo": "assets/leadership.jpg",
     "linkedin": "https://www.linkedin.com/posts/rojjakharel_i-did-it-little-rojja-would-be-so-proud-activity-7471206140274638849--lHb"
   },
-
   "recognition": {
     "heading": "Confidence with a commitment to community.",
     "year": "2026",
@@ -82,10 +74,8 @@
       "Leadership"
     ]
   },
-
   "education": {
     "heading": "Business, project management, and international experience.",
-
     "items": [
       {
         "years": "2025 - 2026",
@@ -94,7 +84,6 @@
         "description": "Coursework includes risk and quality, project operations, global leadership, information systems, and growth strategy.",
         "photo": "assets/nyu.jpg"
       },
-
       {
         "years": "2020 - 2024",
         "title": "Ramapo College of New Jersey",
@@ -102,7 +91,6 @@
         "description": "Minors in International Business and Entrepreneurship. Summa Cum Laude, 3.9/4.0 GPA.",
         "photo": "assets/ramapo.jpg"
       },
-
       {
         "years": "Spring 2026",
         "title": "Global Field Experience",
@@ -112,14 +100,11 @@
       }
     ]
   },
-
   "bakes": {
     "name": "Rosa Bakes",
     "description": "A creative outlet centered on baking, presentation, and the joy of making something memorable for other people.",
-    "quote": "Professional ambition and creativity do not have to live in separate worlds. The same attention to detail can show up in a project plan, a presentation, or something made from scratch.",
-    "instagram": ""
+    "quote": "Professional ambition and creativity do not have to live in separate worlds. The same attention to detail can show up in a project plan, a presentation, or something made from scratch."
   },
-
   "contact": {
     "intro": "For project management, operations, strategy, program, and cross-functional opportunities in the New York area.",
     "email": "rk3860@nyu.edu",
